@@ -13,5 +13,25 @@
     <p>Llamanos al <a href="tel:+5491140007000">(011) 4000-7000</a> de lunes a viernes de 11 a 17h.</p>
     <h2>Por email</h2>
     <p>Envíanos un email a <a href="mailto:info@sitio.com">info@sitio.com</a> y te contestaremos a la brevedad posible.</p>
+    <h2>Formulario de cointacto</h2>
+    <form action="mail.php">
+        <div>
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" name="nombre">
+        </div>
+        <div>
+            <label for="apellido">Apellido:</label>
+            <input type="text" id="apellido" name="apellido">
+        </div>
+        <div>
+            <label for="email">Email</label>
+            <input type="text" id="email" name="email">
+        </div>
+        <div>
+            <label for="consulta">Consulta:</label>
+            <textarea name="consulta" id="consulta"></textarea>
+        </div>
+        <input type="submit" value="Enviar consulta">
+    </form>
 </body>
 </html>
