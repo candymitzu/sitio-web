@@ -38,6 +38,10 @@ nav .nav-list a {
     margin-left: auto;
     padding: 1em;
 }
+
+.cart h2 {
+    text-decoration: none;
+}
 .cart ul {
     list-style-type: none;
 }
