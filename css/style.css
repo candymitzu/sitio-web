@@ -11,3 +11,23 @@ h6{
     font-weight: normal;
     text-decoration: underline;
 }
+
+nav {
+
+}
+
+nav .nav-list {
+    background-color: #d5e0db;
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    justify-content: center;
+}
+
+nav .nav__list-item{
+    margin: 20px;
+}
+
+nav .nav-list a {
+    text-decoration: none;
+}
