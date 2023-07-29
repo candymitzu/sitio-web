@@ -45,3 +45,12 @@ nav .nav-list a {
 .cart ul {
     list-style-type: none;
 }
+
+textarea {
+    width: 300px;
+    min-width: 200px;
+    max-width: 500px;
+    height: 88px;
+    min-height: 40px;
+    max-height: 120px;
+}
