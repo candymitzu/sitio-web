@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, "Helvetica Newe", Helvetica, Verdana sans-serif;
     background-color: #f7f7f7;
 }
 h1,
@@ -26,7 +26,7 @@ nav .nav-list{
 }
 
 nav .nav__list-item {
-    margin: 20px;
+    margin: 15px;
 }
 
 nav .nav-list a {
